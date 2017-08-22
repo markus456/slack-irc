@@ -40,6 +40,7 @@
     "@slack/client": "3.9.0",
     "check-env": "1.2.0",
     "commander": "2.9.0",
+    "iconv": "^2.3.0",
     "irc": "0.5.2",
     "lodash": "^4.15.0",
     "strip-json-comments": "2.0.1",
